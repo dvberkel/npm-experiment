@@ -1,0 +1,16 @@
+{
+  "name": "npm-experiment",
+  "version": "0.0.0",
+  "description": "Experiment to determine if it is possible to install via git url if package is private",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "dvberkel",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "cowsay": "~1.0.0"
+  }
+}
