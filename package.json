@@ -1,6 +1,6 @@
 {
   "name": "npm-experiment",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Experiment to determine if it is possible to install via git url if package is private",
   "main": "index.js",
   "scripts": {
